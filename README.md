@@ -1,2 +1,3 @@
-echo "# hello-world" >> README.md
+#hello-world
 
+print('Im Here!')
